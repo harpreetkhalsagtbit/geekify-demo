@@ -15,3 +15,5 @@ Continuously execute `geekigy next`| `geekify previous` and run `node server.js`
 To check difference in code for each step execute command `geekify showdiff`.
 
 To start over execute `geekify reset`.
+
+List of available [Commands](https://github.com/harpreetkhalsagtbit/geekify/blob/master/Draft.md#geekify-commands)
