@@ -1,11 +1,7 @@
 {
     "branches": [
+        "master",
         "step1",
-        "step2",
-        "step3",
-        "step4"
-    ],
-    "index": "0",
-    "initialBranch": "step1",
-    "main_server":"server.js"
+        "step2"
+    ]
 }
